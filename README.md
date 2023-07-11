@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Hello stranger! 👋, I’m Ami Kevadiya 👩‍💻
+Welcome to my personal website! I'm a front-end developer with 5 years of experience, specializing in UI/UX design. Currently, I'm actively seeking new job opportunities in Australia. 🌏
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me 🌟
+👋 Welcome to my world, where creativity meets functionality and seamless user experiences merge with captivating designs. As a passionate Front End Developer and UI/UX Designer 💻🎨, I bring digital visions to life, turning ideas into pixel-perfect websites that make a lasting impact. With a deep understanding of HTML, CSS, JavaScript, Shopify, WordPress, and React ⚛️, I specialize in crafting visually stunning and user-friendly interfaces that push the boundaries of what's possible on the web. From building responsive layouts and optimizing website performance to creating intuitive navigation systems and designing captivating visuals, I thrive on delivering solutions that engage, inspire, and elevate the user experience. Join me on this exciting journey as we transform ideas into visually stunning and functionally flawless digital experiences. ✨🚀
 
-## Available Scripts
 
-In the project directory, you can run:
+## Skills 🏆
 
-### `npm start`
+- HTML 🌐
+- CSS 💅
+- JavaScript 🧩
+- React ⚛️
+- Figma 🖌️
+- jQuery 📦
+- Bootstrap 🥾
+- SASS 💃
+- TypeScript 📜
+- WordPress 🌿
+- Shopify 🛍️
+- Grav CMS 🪦
+- PHP 🐘
+- SQL 🗃️
+- Adobe XD 🖍️
+- Photoshop 🎨
+- Illustrator ✏️
+- React.js ⚛️
+- UI/UX Design 🎨
+- Responsive Web Design 📱
+- Wireframing and Prototyping 🧰
+- Adobe Creative Suite 🖥️
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## My Projects
 
-### `npm test`
+You can see my projects on my website. Visit my website at [https://amikevadiya.github.io/work](https://amikevadiya.github.io/work) to explore my portfolio and see the projects I have worked on. Each project showcases my skills in frontend development, UI/UX design, and my ability to create visually appealing and functional websites. Feel free to browse through and get a glimpse of my work!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I look forward to hearing your feedback and discussing potential collaborations. Let's create something amazing together! 😊
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contact
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If you're interested in collaborating or have any job opportunities, feel free to reach out to me. Let's connect and create something amazing together!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📧 Email: [amikevadiya@gmail.com](mailto:amikevadiya@gmail.com)
 
-### `npm run eject`
+💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amilakadiya)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🌏 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my website! 😊
