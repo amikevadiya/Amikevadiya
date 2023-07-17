@@ -46,6 +46,6 @@ If you're interested in collaborating or have any job opportunities, feel free t
 
 💬 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amilakadiya)
 
-🌏 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
+🌏 Portfolio: [https://amikevadiya.github.io/protfolio](https://amikevadiya.github.io/protfolio/)
 
 Thank you for visiting my website! 😊
